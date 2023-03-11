@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-resources/"}
+{"dg-publish":true,"permalink":"/obsidian-resources/","created":"","updated":""}
 ---
 
 
