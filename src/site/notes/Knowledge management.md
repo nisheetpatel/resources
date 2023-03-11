@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-management/"}
+{"dg-publish":true,"permalink":"/knowledge-management/","created":"","updated":""}
 ---
 
 
