@@ -23,6 +23,7 @@ My go-to search places for any research articles are [Research Rabbit](https://w
 
 > [!tip] Link Obsidian <> Zotero <> Research Rabbit
 > Some excellent tutorials showcasing how to seamlessly link everything together:
+> - [Connecting Zotero with Obsidian](https://www.arslonga.email/how-to-connect-zotero-with-obsidian/) 
 > - [Obsidian <> Zotero workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536)
 > - [Research Rabbit & Zotero Sync](https://www.youtube.com/watch?v=6vVcqwdpfK0)
 > - [Obsidian, Research Rabbit, and Zotero workflow](https://www.youtube.com/watch?v=mMpVMuGBGe8)
