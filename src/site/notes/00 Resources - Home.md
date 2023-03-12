@@ -9,11 +9,11 @@
 
 This is the home page for all the resources.
 
-- [[Reinforcement Learning\|Reinforcement Learning]]
-- [[Programming\|Programming]]
-- [[Knowledge management\|Knowledge management]]
-- [[Mental health\|Mental health]]
-- [[Miscellaneous\|Miscellaneous]]
+- [[01 Reinforcement Learning\|01 Reinforcement Learning]]
+- [[02 Programming\|02 Programming]]
+- [[03 Knowledge management\|03 Knowledge management]]
+- [[04 Mental health\|04 Mental health]]
+- [[09 Miscellaneous\|09 Miscellaneous]]
 
 
 
