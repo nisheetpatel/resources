@@ -9,6 +9,13 @@
 
 If you find it useful, here's [[Programming#My coding setup\|my coding setup]] and here are some [[Programming#Tips for collaborative projects\|tips for collaborative projects]]. I am a mostly self-taught programmer, and as much as it pains me to admit, I started with Matlab. However, I can barely remember those days, and thanks to these resources, I consider myself a decent python developer.
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/arjancodes/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
 ## Arjancodes
 
 ##### Software design course + pythonic design patterns
@@ -22,6 +29,9 @@ Together, they're so comprehensive and manage to cover every aspect of modern py
 ##### YouTube
 
 If you cannot afford the course, I would still recommend [Arjancodes' YouTube channel](https://www.youtube.com/c/arjancodes). He has some fantastic videos that put the principles into practice. Some of my early favorites, before I eventually decided to take his course, were [cohesion and coupling](https://www.youtube.com/watch?v=eiDyK_ofPPM), [composition vs inheritance](https://www.youtube.com/watch?v=0mcP8ZpUR38), [SOLID design principles](https://www.youtube.com/watch?v=pTB30aXS77U), [abstraction and composition](https://www.youtube.com/watch?v=ka70COItN40&t=3s), the other videos on refactoring data science projects (pt [2](https://www.youtube.com/watch?v=Tx4AxbQNv3U), [3](https://www.youtube.com/watch?v=8fFqakxhW84)), and then some others on using [dataclasses](https://www.youtube.com/watch?v=vRVVyl9uaZc), [pydantic](https://www.youtube.com/watch?v=Vj-iU-8_xLs), [ABC vs protocol](https://www.youtube.com/watch?v=xvb5hGLoK0A&t=248s). that make OOP life easier.
+
+
+</div></div>
 
 
 ## My coding setup
