@@ -18,11 +18,10 @@ In addition to the [[ADHD#Observations\|ADHD#Observations]], I will list some ge
 ### Concerta
 
 - [[Concerta reflections\|Concerta reflections]]
-
 - [[Concerta day 1, 18mg \|Concerta day 1, 18mg ]]
 - [[Concerta day 2, 18mg\|Concerta day 2, 18mg]]
-- [[Concerta day 4, 36mg\|Concerta day 4, 36mg]]
 - [[Concerta day 3, 36mg\|Concerta day 3, 36mg]]
+- [[Concerta day 4, 36mg\|Concerta day 4, 36mg]]
 
 ### Lion's mane
 
