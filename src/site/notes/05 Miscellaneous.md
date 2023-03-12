@@ -5,8 +5,14 @@
 
 ## Miscellaneous
 
+#### Random
+
 - [[Generative art\|Generative art]]
-- Tips on improving [[Windows battery life\|Windows battery life]]
+- [[Lose the very\|Lose the very]]
+- [[Mechanical keyboards\|Mechanical keyboards]]
+- [[Meta interview tips\|Meta interview tips]]
+- [[Other personal websites for inspiration\|Other personal websites for inspiration]]
+- [[Windows battery life tips\|Windows battery life tips]]
 
 #### Blogs
 
