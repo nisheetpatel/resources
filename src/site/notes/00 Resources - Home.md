@@ -3,8 +3,6 @@
 ---
 
 
-![resources_wide_edited.jpg](/img/user/images/resources_wide_edited.jpg)
-
 # Resources
 
 This is the home page for all the resources.
