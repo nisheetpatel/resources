@@ -12,4 +12,5 @@ Backlinks: [[03 Knowledge management\|03 Knowledge management]]
 - [[Atomic notes\|Atomic notes]]
 - [[Evergreen notes\|Evergreen notes]]
 - [[Ideas from Bryan Jenks\|Ideas from Bryan Jenks]]
+- [Ideas from Eleanor Konik](https://www.eleanorkonik.com/)
 - [[Ideas from Nick Milo\|Ideas from Nick Milo]]
