@@ -5,7 +5,7 @@
 
 # Resources
 
-This is the home page for all the resources.
+This is the home page for all the resources that I have found useful at some point during my career.
 
 - [[01 Reinforcement Learning\|01 Reinforcement Learning]]
 - [[02 Programming\|02 Programming]]
@@ -14,8 +14,7 @@ This is the home page for all the resources.
 - [[09 Miscellaneous\|09 Miscellaneous]]
 
 
-
-> [!info] Navigating this website
+> [!info] Navigating this webpage
 > You may navigate this site by hovering over or clicking through the links, searching for something directly on the left sidebar, or finding it in the graph on the top right of the page. If you click on something and get lost, you can find the backlink at the bottom of the right sidebar.
 
 
