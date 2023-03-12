@@ -3,6 +3,7 @@
 ---
 
 
+Backlinks: [[03 Knowledge management\|03 Knowledge management]]
 #resources #obsidian #PKM
 
 ##### Resources for beginners & advanced users
