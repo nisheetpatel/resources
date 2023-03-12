@@ -7,11 +7,11 @@
 
 This is the home page for all the resources that I have found useful at some point during my career.
 
-- [[01 Reinforcement Learning\|01 Reinforcement Learning]]
-- [[02 Programming\|02 Programming]]
-- [[03 Knowledge management\|03 Knowledge management]]
-- [[04 Mental health\|04 Mental health]]
-- [[09 Miscellaneous\|09 Miscellaneous]]
+- [[01 Reinforcement Learning\|Reinforcement Learning]]
+- [[02 Programming\|Programming]]
+- [[03 Knowledge management\|Knowledge management]]
+- [[04 Mental health\|Mental health]]
+- [[05 Miscellaneous\|Miscellaneous]]
 
 
 > [!info] Navigating this webpage
