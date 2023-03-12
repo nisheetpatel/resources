@@ -6,6 +6,7 @@
 ## Miscellaneous
 
 - [[Generative art\|Generative art]]
+- Tips on improving [[Windows battery life\|Windows battery life]]
 
 #### Blogs
 
