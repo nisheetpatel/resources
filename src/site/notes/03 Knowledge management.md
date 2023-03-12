@@ -21,7 +21,8 @@
 
 My go-to search places for any research articles are [Research Rabbit](https://www.youtube.com/watch?v=cWn3CgmoZlI) and Google (scholar). Neither one by itself is fully satifsying, but together, they work incredibly well. I have tried [elicit](https://elicit.org/) but didn't find it particularly useful.
 
-> [!tip] Link Obsidian <-> Zotero <-> Research Rabbit
-> Bryan Jenks has some excellent tutorials showcasing how to seamlessly link everything together:
+> [!tip] Link Obsidian <> Zotero <> Research Rabbit
+> Some excellent tutorials showcasing how to seamlessly link everything together:
+> - [Obsidian <> Zotero workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536)
 > - [Research Rabbit & Zotero Sync](https://www.youtube.com/watch?v=6vVcqwdpfK0)
 > - [Obsidian, Research Rabbit, and Zotero workflow](https://www.youtube.com/watch?v=mMpVMuGBGe8)
