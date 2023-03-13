@@ -22,10 +22,10 @@ Backlinks: [[03 Knowledge management\|03 Knowledge management]]
 
 ##### Obsidian Publish alternatives
 
+- [Digital Garden](https://dg-docs.ole.dev/)
+	- By far the easiest one I found and the one I use to host my notes and this webpage. Can highly recommend :)
 - [Perlite](https://secure77.de/perlite/)
-- Digital Garden
-	- [YouTube tutorial](https://www.youtube.com/watch?v=kg-9n_A4Tf0)
-	- [Github template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
+	- Is not as straightforward to configure and use and is comparatively feature-poor
 - [A comprehensive list of alternatives](https://flowershow.app/notes/obsidian-publishing-options#summary)
 
 ##### Obsidian Sync alternatives
