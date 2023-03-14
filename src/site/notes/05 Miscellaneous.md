@@ -13,6 +13,7 @@
 - [[Mechanical keyboards\|Mechanical keyboards]]
 - [[Meta interview tips\|Meta interview tips]]
 - [[Other personal websites for inspiration\|Other personal websites for inspiration]]
+- [[Remote development\|Remote development]]
 - [[Windows battery life tips\|Windows battery life tips]]
 
 #### Blogs
