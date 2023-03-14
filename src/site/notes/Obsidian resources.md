@@ -8,16 +8,19 @@ Backlinks: [[03 Knowledge management\|03 Knowledge management]]
 
 ##### Resources for beginners & advanced users
 
-1.  [Bryan Jenks](https://www.bryanjenks.dev/)
+1. [Bryan Jenks](https://www.bryanjenks.dev/)
 	- my go-to guy for all comprehensive workflows
 	- perhaps not for beginners
 	- [youtube playlist on everything Obsidian-related](https://www.youtube.com/playlist?list=PL5fd4SsfvECy0zzf8Cyo20ZoipEt6YeL3)
-2.  Nick Milo
+2. [Eleanor Konik](https://www.eleanorkonik.com/)
+	- One of the best for Obsidian and PKM content
+	- Very good tips for organizing and managing research, especially setting up Zotero to work seamlessly with Obsidian
+3. Nick Milo
 	- an influential character in the personal knowledge management area, and the creator of a scalable framework called [linking your thinking](https://www.linkingyourthinking.com/)
 	- Beginner-friendly
 	- [Youtube playlist on Obsidian for beginners](https://youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd)
 	- [Obsidian forum post with a lot of beginner-friendly ideas](https://forum.obsidian.md/t/linking-your-thinking-resources/6177)
-3. Obsidian forum
+4. Obsidian forum
 	- The [forum](https://forum.obsidian.md/) is a place for all questions obsidian-related
 
 ##### Obsidian Publish alternatives
