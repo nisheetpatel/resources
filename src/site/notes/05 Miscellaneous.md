@@ -7,6 +7,7 @@
 
 #### Random
 
+- [AI residency programs](https://github.com/dangkhoasdc/awesome-ai-residency)
 - [[Generative art\|Generative art]]
 - [[Lose the very\|Lose the very]]
 - [[Mechanical keyboards\|Mechanical keyboards]]
