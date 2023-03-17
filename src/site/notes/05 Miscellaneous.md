@@ -8,6 +8,7 @@
 #### Random
 
 - [AI residency programs](https://github.com/dangkhoasdc/awesome-ai-residency)
+- [[AI organizations of interest\|AI organizations of interest]]
 - [[Generative art\|Generative art]]
 - [[Lose the very\|Lose the very]]
 - [[Mechanical keyboards\|Mechanical keyboards]]
