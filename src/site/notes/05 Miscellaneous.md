@@ -9,10 +9,10 @@
 
 - [AI residency programs](https://github.com/dangkhoasdc/awesome-ai-residency)
 - [[AI organizations of interest\|AI organizations of interest]]
+- [[Coding interview prep\|Coding interview prep]]
 - [[Generative art\|Generative art]]
 - [[Lose the very\|Lose the very]]
 - [[Mechanical keyboards\|Mechanical keyboards]]
-- [[Meta interview tips\|Meta interview tips]]
 - [[Other personal websites for inspiration\|Other personal websites for inspiration]]
 - [[Remote development\|Remote development]]
 - [[Windows battery life tips\|Windows battery life tips]]
